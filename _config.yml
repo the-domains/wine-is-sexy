@@ -1,0 +1,28 @@
+name: Wine-Is-Sexy
+favicon: null
+layout_spectrum: 0.8891744480933994
+typography_spectrum: 0.6070477073080838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1831344710662961
+  lightness: 0.8337263946887106
+  saturation: 0.11168992356397212
+  rhythmicContrast: 0.8031425809022039
+purpose: []
